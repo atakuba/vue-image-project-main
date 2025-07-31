@@ -1,4 +1,5 @@
 # Vue Filters 🎨
+<img width="1050" height="768" alt="Copy of chatbot" src="https://github.com/user-attachments/assets/5a04f41e-9e4f-4929-b05f-c3e948a1bd40" />
 
 Vue Filters is a modern web-based image editing application built with Vue.js. It brings the power of Photoshop-like filters directly to the browser. With a fast, responsive interface and performance-optimized rendering using WebAssembly and the Canvas API, Vue Filters is a perfect addition to any developer's portfolio.
 
